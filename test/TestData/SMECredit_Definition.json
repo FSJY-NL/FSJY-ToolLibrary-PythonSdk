@@ -1,0 +1,43 @@
+[
+  {
+    "Input Definition": "Tranche",
+    "Tranche level": 1,
+    "Tranche Name": "Equity",
+    "Attachment Point": 0,
+    "Detachment Point": 0.03,
+    "Method": "COS"
+  },
+  {
+    "Input Definition": "Tranche",
+    "Tranche level": 2,
+    "Tranche Name": "Junior Mezzanine",
+    "Attachment Point": 0.03,
+    "Detachment Point": 0.06,
+    "Method": null
+  },
+  {
+    "Input Definition": "Tranche",
+    "Tranche level": 3,
+    "Tranche Name": "Senior Mezzanine",
+    "Attachment Point": 0.06,
+    "Detachment Point": 0.09,
+    "Method": null
+  },
+  {
+    "Input Definition": "Tranche",
+    "Tranche level": 4,
+    "Tranche Name": "Senior",
+    "Attachment Point": 0.09,
+    "Detachment Point": 0.12,
+    "Method": null
+  },
+  {
+    "Input Definition": "Tranche",
+    "Tranche level": 5,
+    "Tranche Name": "Super Senior",
+    "Attachment Point": 0.12,
+    "Detachment Point": 0.22,
+    "Method": null
+  }
+
+]
