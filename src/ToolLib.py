@@ -3,7 +3,6 @@ from enum import Enum
 import pandas as pd
 import requests
 
-
 # todo: add log
 # todo: add exception handling
 # todo: add documentation
